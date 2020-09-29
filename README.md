@@ -40,3 +40,6 @@ Confucius：
 >Is it not pleasant to learn with a constant perseverance and application?
 
 \* literal asterisks \*
+
+- [X] male
+- [ ] female
