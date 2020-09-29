@@ -31,6 +31,6 @@ _this will also be italic_
    * Item 3a
    * Item 3b
    
-![NKUST LOGO](NKUST LOGO.png "高科大") 
+![TLWLOGO](TLWLOGO.png "特力屋") 
 
-[NKUST](https://www.nkust.edu.tw)
+[特力屋](https://www.trplus.com.tw/)
