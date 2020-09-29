@@ -31,6 +31,6 @@ _this will also be italic_
    * Item 3a
    * Item 3b
    
-![TLWLOGO](TLWLOGO.png "特力屋") 
+![TLW](TLW.png "特力屋") 
 
 [特力屋](https://www.trplus.com.tw/)
