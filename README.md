@@ -34,3 +34,9 @@ _this will also be italic_
 ![TLW](TLW.png "特力屋") 
 
 [特力屋](https://www.trplus.com.tw/)
+
+
+Confucius：
+>Is it not pleasant to learn with a constant perseverance and application?
+
+\* literal asterisks \*
